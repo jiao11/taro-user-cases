@@ -1,10 +1,6 @@
 const userCases = {
   微信小程序: [
     {
-      name: "智科车联",
-      url: "http://itink.com.cn/assets/weapp/itink.jpg"
-    },
-    {
       name: "京东购物",
       url: "http://storage.jd.com/taro-resource/cases/京东购物.png"
     },
@@ -423,6 +419,10 @@ const userCases = {
     {
       name: '幻熊科技',
       url: 'https://wfc-public.halobear.com/51be3dbab0af8ba044ea7444092737e2.jpg',
+    },
+    {
+      name: "智科车联",
+      url: "http://itink.com.cn/assets/weapp/itink.jpg"
     }
   ],
   H5: [
